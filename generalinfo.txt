@@ -1,2 +1,4 @@
 This is regarding how git clone and fork works together.
-I am adding this from forked repo
+
+This i am adding from original repo.
+
